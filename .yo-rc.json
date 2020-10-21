@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Mikael Malm",
+      "authorEmail": "mikaelmalm91@gmail.com",
+      "authorUrl": "mikaelmalm.com"
+    }
+  }
+}
